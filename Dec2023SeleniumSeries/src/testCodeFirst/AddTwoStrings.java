@@ -6,7 +6,7 @@ public class AddTwoStrings {
 		
 		String a = "Hello";
 
-		String b = "Naveen K";
+		String b = "Bala K";
 		
 		System.out.println(a+" "+b);
 	}

@@ -20,10 +20,10 @@ public class TestAscii {
             System.out.println("Hello");
         }
         
-        boolean c = true;
-        boolean d = false;
+        boolean c = false;
+        boolean d = true;
         
-        boolean result = c && d;
+        boolean result = d && c;
         System.out.println(result);
         
         boolean resultVal = c & d;
